@@ -1,0 +1,58 @@
+<manifest alg="2" build="329" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="484634295"/>
+    <file name="master_a-master.css" crc="3995610297" ref="projects:tarsim:index:resume:publications"/>
+    <file name="projects.css" crc="293425898" ref="projects"/>
+    <file name="tarsim.css" crc="4235893027" ref="tarsim"/>
+    <file name="index.css" crc="286225973" ref="index"/>
+    <file name="resume.css" crc="333106050" ref="resume"/>
+    <file name="publications.css" crc="354230132" ref="publications"/>
+  </folder>
+  <folder name="assets">
+    <file name="kamran-shamaei.pdf" crc="70583938" mt="1386266524000"/>
+    <file name="orthosis-design-hd.mp4" crc="4213051135" mt="1375480884000"/>
+    <file name="quarterly-loaded.avi" crc="4267000768" mt="1339166564000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:tarsim:resume:projects:publications"/>
+    <file name="museutils.js" crc="3865766194" ref="index:tarsim:resume:projects:publications"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index:tarsim:resume:projects:publications"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:tarsim:resume:projects:publications"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="publications"/>
+    <file name="webpro.js" crc="3903299128" ref="projects"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="projects"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="projects"/>
+    <file name="touchswipe.js" crc="4156838003" ref="projects"/>
+  </folder>
+  <folder name="images">
+    <file name="dsc03234.jpg" crc="4164872039" ref="index:tarsim:resume:projects:publications"/>
+    <file name="cimg4547.jpg" crc="3824910637" ref="index"/>
+    <file name="phone_icon.png" crc="4286652287" ref="index:tarsim:resume:projects:publications"/>
+    <file name="mail_icon.png" crc="179492962" ref="index:tarsim:resume:projects:publications"/>
+    <file name="corner.png" crc="232173595" ref="publications"/>
+    <file name="research_orthoses_s3-u3138-fr.jpg" crc="59664333" ref="publications"/>
+    <file name="circle.png" crc="3967380881" ref="tarsim:resume:projects"/>
+    <file name="dot_line.png" crc="4017746256" ref="tarsim"/>
+    <file name="research_orthoses_s3333x471.jpg" crc="130024284" ref="projects"/>
+    <file name="blank.gif" crc="4208392903" ref="projects"/>
+    <file name="exoskeleton-01.jpg" crc="4054967747" ref="projects"/>
+    <file name="cimg5333.jpg" crc="3905054526" ref="projects"/>
+    <file name="research_orthoses_s3311x441.jpg" crc="137013842" ref="projects"/>
+    <file name="left_icon.png" crc="317805545" ref="projects"/>
+    <file name="right_icon.png" crc="3978460945" ref="projects"/>
+    <file name="loading.gif" crc="3815509949" ref="projects"/>
+    <file name="research_orthoses_s4.jpg" crc="4107138367" ref="projects"/>
+    <file name="experiments_orthosis.jpg" crc="437908200" ref="projects"/>
+    <file name="cimg4236.jpg" crc="4086289778" ref="projects"/>
+    <file name="final_camera_2.jpg" crc="3875360452" ref="projects"/>
+    <file name="pig_experiment1.jpg" crc="4217527331" ref="projects"/>
+    <file name="localization.jpg" crc="409414245" ref="projects"/>
+    <file name="final_camera_2311x307.jpg" crc="296691329" ref="projects"/>
+    <file name="pig_experiment1311x234.jpg" crc="3832907097" ref="projects"/>
+  </folder>
+  <file name="index.html" crc="241544230" mt="1386715298084" redirect="true"/>
+  <file name="tarsim.html" crc="3815896761" mt="1386715298091" redirect="true"/>
+  <file name="resume.html" crc="3981912359" mt="1386715298095" redirect="true"/>
+  <file name="projects.html" crc="4234185472" mt="1386715298099" redirect="true"/>
+  <file name="publications.html" crc="6899037" mt="1386715298108" redirect="true"/>
+</manifest>
